@@ -5,4 +5,14 @@
    
 
   }
+  @media screen and (max-width:300) {
+    .large-text
+  {
+    font-size: 60px;
+  }
+  }
+.large-text
+{
+  font-size: 100px;
+}
 

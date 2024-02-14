@@ -29,7 +29,7 @@ const PricePanel = () => {
       <div className="row">
         <div className="col">
             <div className='gradient-text'>
-            <span className=' h1 d-flex justify-content-center  large'>&#8377;{count.toLocaleString()}</span>
+            <span className=' h1 d-flex justify-content-center  large-text'>&#8377;{count.toLocaleString()}</span>
             </div>
         
 
